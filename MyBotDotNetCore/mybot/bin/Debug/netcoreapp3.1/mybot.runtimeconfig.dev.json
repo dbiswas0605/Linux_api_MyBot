@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/send2debu/.dotnet/store/|arch|/|tfm|",
+      "/home/send2debu/.nuget/packages"
+    ]
+  }
+}
